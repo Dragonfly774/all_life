@@ -12,6 +12,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 
 class Ui_Form(object):
+    #fdhnjupokil[]oijuhkvgymnb,j;plto[ihugjkfb,mnvc lkjgrthiug,mfnbl,odijuyhkgoijy,umgrnt;oxpij,huyrt,l
     def setupUi(self, Form):
         Form.setObjectName("Form")
         Form.resize(371, 565)
