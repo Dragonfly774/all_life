@@ -14,6 +14,7 @@ class MyWidget(QMainWindow, Ui_MainWindow):
     def run(self):
         ans = 'Ваш заказ:\n'
         summ1 = int(self.lineEdit.text()) * 10
+
         summ2 = int(self.lineEdit.text()) * 15
         summ3 = int(self.lineEdit.text()) * 5
         summ4 = int(self.lineEdit.text()) * 9
